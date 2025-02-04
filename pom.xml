@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://65.0.96.253:9000/</sonar.host.url>
+		<sonar.host.url>http://13.233.164.97:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin1</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mahesh Releases Nexus Repository</name>
-	      <url>http://3.108.185.121:8081/repository/salomey_release/</url>
+	      <url>http://43.204.30.106:8081/repository/salomey_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mahesh Snapshot Nexus Repository </name>
-	      <url>http://3.108.185.121:8081/repository/salomey_snapshot/</url>
+	      <url>http://43.204.30.106:8081/repository/salomey_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
